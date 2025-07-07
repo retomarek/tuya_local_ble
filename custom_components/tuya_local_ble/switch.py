@@ -330,7 +330,7 @@ mapping: dict[str, TuyaBLECategorySwitchMapping] = {
     ),
     "sfkzq": TuyaBLECategorySwitchMapping(
         products={
-            "bf46feex7rksrqaz": [  # Irrigation computer
+            "pbtcwqbh": [  # Irrigation computer
                 TuyaBLESwitchMapping(
                     dp_id=1,
                     description=SwitchEntityDescription(
