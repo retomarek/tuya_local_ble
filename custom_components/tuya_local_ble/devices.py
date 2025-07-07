@@ -313,6 +313,14 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
             ),
         },
     ),
+    "sfkzq": TuyaBLECategoryInfo(
+        products={
+            "pbtcwqbh":  # device product_id
+            TuyaBLEProductInfo(
+                name="Irrigation computer",
+            ),
+        },
+    ),
 }
 
 
