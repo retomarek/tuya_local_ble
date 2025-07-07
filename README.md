@@ -1,4 +1,4 @@
-<h1 align="center"><br>Tuya BLE</h1>
+<h1 align="center"><br>tuya_local_ble</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/ShonP40/Tuya-BLE?style=flat-square" alt="License">
